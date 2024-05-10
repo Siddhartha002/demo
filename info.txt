@@ -3,3 +3,8 @@ git clone <link>
 cd <directory name>
 git add<file name> or to add all git add .
 git commit -m "some message"
+git push origin main -to upload into web
+(to get out of directory ) cd ..
+to create a new folder, mkdir <foldername>
+(to create new git reposatory) after new folder ,use ,git ini
+(work flow) github repo->clone->changes->add->commit->push
