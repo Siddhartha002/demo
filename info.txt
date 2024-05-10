@@ -1,0 +1,5 @@
+git clone <link>
+#to change directory
+cd <directory name>
+git add<file name> or to add all git add .
+git commit -m "some message"
